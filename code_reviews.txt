@@ -1,0 +1,30 @@
+1.
+
+Similarities:
+    - Do not take criticism during code reviews personally. They are meant to be taken as constructive criticism.
+    - Smaller pull requests are better because code reviews shouldn't take too long.
+
+Differences:
+    - Yelp recommends to have a primary reviewer during a code review.
+    - Microsoft recommends to automate as much of the process as possible.
+
+Items in a code review checklist:
+    - Submitter should review their own code.
+    - Provide clear guidelines.
+    - Reviewer should take time to understand the code.
+    - Reviewer should check the code quality.
+    - Reviewer should verify that the code is tested well.
+    - Reviewer should check that the code is safe to deploy.
+
+2. 
+
+https://codereview.stackexchange.com/questions/287229/iterating-the-octree-while-keeping-track-of-the-positive-neighboring-nodes
+
+We found this beneficial because the reviewer provided clear and defined reasons for each issue they identified in the code. They also provided examples of how the submitter could change the code to fix the issues. This shows that the reviewer had a good understanding of the code.
+
+3.
+
+https://codereview.stackexchange.com/questions/10167/derpifying-images
+
+We found this to be not beneficial because the reviewer points out issues but does not show how to fix them. The reviewer also made many disrespectful comments. A recommendation to improve this code review would be to keep the comments constructive rather than rude, and back up reasons for pointing out issues.
+
